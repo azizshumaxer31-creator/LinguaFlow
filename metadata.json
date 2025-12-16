@@ -1,0 +1,7 @@
+{
+  "name": "LinguaFlow Live",
+  "description": "A real-time conversational AI language partner powered by Gemini Live API. Practice speaking naturally with an AI tutor that adapts to your level and topic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
